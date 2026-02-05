@@ -1,0 +1,8 @@
+openai
+chromadb
+python-dotenv
+tiktoken
+numpy
+pandas
+streamlit
+faiss-cpu
